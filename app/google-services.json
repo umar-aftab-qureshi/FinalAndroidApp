@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89399190101",
+    "firebase_url": "https://sensors-forecasting-fc27d-default-rtdb.firebaseio.com",
+    "project_id": "sensors-forecasting-fc27d",
+    "storage_bucket": "sensors-forecasting-fc27d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89399190101:android:24fac7a21b4b6080382adc",
+        "android_client_info": {
+          "package_name": "com.example.airqualitypredication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89399190101-4sihjoreq5k693s0mjeu83r7d0200rum.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCReCxkYVY27EkG0O6QjU62MHPPT4Lqkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89399190101-4sihjoreq5k693s0mjeu83r7d0200rum.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
